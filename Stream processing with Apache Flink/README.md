@@ -45,7 +45,7 @@ object RideCleansingExercise extends ExerciseBase {
 }
 ```
 + Тест
-![test1](https://github.com/nvnovitskiy/big-data/blob/main/L3%20-%20Stream%20processing%20with%20Apache%20Flink/images/RideCleansingTest.png)
+![test1](https://github.com/witssaa/2021-BD/tree/main/Stream%20processing%20with%20Apache%20Flink/images/RideCleansingTest.png)
 
 + RidesAndFaresExercise
 ```scala
@@ -114,7 +114,7 @@ object RidesAndFaresExercise {
 }
 ```
 + Тест
-![test2](https://github.com/nvnovitskiy/big-data/blob/main/L3%20-%20Stream%20processing%20with%20Apache%20Flink/images/RidesAndFaresTest.png)
+![test2](https://github.com/witssaa/2021-BD/tree/main/Stream%20processing%20with%20Apache%20Flink/images/RidesAndFaresTest.png)
 
 + HourlyTipsExerxise
 ```scala
@@ -167,7 +167,7 @@ object HourlyTipsExercise {
 ```
 
 + Тест
-![test3](https://github.com/nvnovitskiy/big-data/blob/main/L3%20-%20Stream%20processing%20with%20Apache%20Flink/images/HourlyTipsTest.png)
+![test3](https://github.com/witssaa/2021-BD/tree/main/Stream%20processing%20with%20Apache%20Flink/images/HourlyTipsTest.png)
 
 + ExpiringStateExercise
 
@@ -263,4 +263,4 @@ object ExpiringStateExercise {
 ```
 
 + Тест
-![test4](https://github.com/nvnovitskiy/big-data/blob/main/L3%20-%20Stream%20processing%20with%20Apache%20Flink/images/ExpiringStateTest.png)
+![test4](https://github.com/witssaa/2021-BD/tree/main/Stream%20processing%20with%20Apache%20Flink/images/ExpiringStateTest.png)
